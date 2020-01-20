@@ -2,7 +2,6 @@ const Discord = require('discord.js');
 const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
 const fs = require("fs");
-const got = require("got")
 const prefix = "<"
 
 
